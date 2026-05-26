@@ -12,15 +12,23 @@ Oi! Sou um desenvolvedor **Frontend** apaixonado por criar interfaces bonitas e 
 Estou no começo da jornada, mas com muita vontade de aprender e evoluir todos os dias.  
 Sou do interior da Bahia 🌿 e acredito que a tecnologia tem o poder de transformar histórias.
 
-```js
-const lsaak7s = {
-  foco:       "Frontend Development",
-  aprendendo: ["JavaScript", "HTML", "CSS"],
-  objetivo:   "Criar experiências web incríveis ✨",
-  localização: "Bahia, Brasil 🇧🇷",
-  mentalidade: "Código todos os dias, crescimento todo mês 📈"
-};
-```
+<div style="background:#1e1e2e;border-radius:10px;padding:1.2rem 1.5rem;font-family:'Fira Code',monospace;font-size:14px;line-height:1.8;border:1px solid #313244">
+  <div style="display:flex;gap:6px;margin-bottom:1rem;padding-bottom:0.8rem;border-bottom:1px solid #313244">
+    <span style="width:10px;height:10px;border-radius:50%;background:#ed6a5e;display:inline-block"></span>
+    <span style="width:10px;height:10px;border-radius:50%;background:#f4bf75;display:inline-block"></span>
+    <span style="width:10px;height:10px;border-radius:50%;background:#61c554;display:inline-block"></span>
+    <span style="color:#6c7086;font-size:12px;margin-left:8px">lsaak7s.js</span>
+  </div>
+  <span style="color:#cba6f7">const </span><span style="color:#89dceb">lsaak7s</span><span style="color:#cdd6f4"> = {</span><br>
+  &nbsp;&nbsp;<span style="color:#a6e3a1">foco</span><span style="color:#cdd6f4">: </span><span style="color:#fab387">"Frontend Development"</span><span style="color:#cdd6f4">,</span><br>
+  &nbsp;&nbsp;<span style="color:#a6e3a1">aprendendo</span><span style="color:#cdd6f4">: [</span><span style="color:#fab387">"JavaScript"</span><span style="color:#cdd6f4">, </span><span style="color:#fab387">"HTML"</span><span style="color:#cdd6f4">, </span><span style="color:#fab387">"CSS"</span><span style="color:#cdd6f4">],</span><br>
+  &nbsp;&nbsp;<span style="color:#a6e3a1">objetivo</span><span style="color:#cdd6f4">: </span><span style="color:#fab387">"Criar experiências web incríveis ✨"</span><span style="color:#cdd6f4">,</span><br>
+  &nbsp;&nbsp;<span style="color:#a6e3a1">localização</span><span style="color:#cdd6f4">: </span><span style="color:#fab387">"Bahia, Brasil 🇧🇷"</span><span style="color:#cdd6f4">,</span><br>
+  &nbsp;&nbsp;<span style="color:#a6e3a1">mentalidade</span><span style="color:#cdd6f4">: </span><span style="color:#fab387">"Código todos os dias, crescimento todo mês 📈"</span><br>
+  <span style="color:#cdd6f4">};</span><br>
+  <br>
+  <span style="color:#6c7086">// iniciante com mentalidade de sênior 🚀</span>
+</div>
 
 ---
 
