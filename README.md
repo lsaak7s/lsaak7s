@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>lsaak7s</h1>
-  <p>Frontend Developer · Bahia, Brasil 🇧🇷</p>
-  <img src="https://komarev.com/ghpvc/?username=lsaak7s&style=flat-square&color=grey" alt="profile views" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1c1c2e&height=180&section=header&text=lsaak7s&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Frontend%20Developer%20%C2%B7%20Bahia%2C%20Brasil&descSize=14&descAlignY=75&descAlign=50&descColor=777777" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=lsaak7s&style=flat-square&color=555555&label=visitors" alt="profile views" />
 </div>
 
 ---
@@ -45,12 +45,17 @@ Interface limpa, resultado instantâneo.
 ## stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lsaak7s&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsaak7s&layout=compact&theme=graywhite&hide_border=true&langs_count=4" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsaak7s&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=00000000&icon_color=888888&text_color=cccccc&ring_color=444444)](https://github.com/lsaak7s)
+
+[![Streak](https://streak-stats.demolab.com?user=lsaak7s&theme=dark&hide_border=true&background=00000000&ring=444444&fire=888888&currStreakLabel=cccccc&sideLabels=777777&dates=555555&stroke=00000000)](https://github.com/lsaak7s)
+
 </div>
 
 ---
 
 <div align="center">
   <sub>construindo um projeto por vez · sempre aprendendo</sub>
+  <br/><br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c2e,100:0d0d0d&height=100&section=footer" />
 </div>
