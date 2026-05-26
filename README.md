@@ -55,7 +55,7 @@ while (alive) { code(); learn(); ship() }
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,css&theme=dark" />
+
 
 </div>
 
