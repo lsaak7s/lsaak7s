@@ -55,7 +55,7 @@ while (alive) { code(); learn(); ship() }
 
 <br/>
 
-
+<img src="https://skillicons.dev/icons?i=js,css&theme=dark" />
 
 </div>
 
@@ -93,22 +93,32 @@ while (alive) { code(); learn(); ship() }
 
 <br/>
 
-## ✦ números
+## ✦ estatísticas
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lsaak7s&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=00000000&icon_color=555555&text_color=999999&ring_color=333333" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lsaak7s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&icon_color=7070ff&text_color=cccccc&title_color=7070ff&ring_color=7070ff" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsaak7s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&text_color=cccccc&title_color=7070ff&langs_count=6" />
 
 <br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=lsaak7s&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7070ff&fire=ff6e6e&currStreakLabel=7070ff&sideLabels=888888&dates=555555&sideNums=cccccc&currStreakNum=ffffff" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lsaak7s&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=7070ff&line=7070ff&point=ffffff&area=true" />
+
+</div>
+
+<br/>
 
 ```
 cada commit foi uma dúvida vencida.
 cada push foi uma decisão de não desistir.
 ```
-
-</div>
 
 <br/>
 
