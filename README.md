@@ -6,35 +6,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=frontend+developer+%C2%B7+bahia%2C+brasil;iniciante+com+sede+de+s%C3%AAnior;um+projeto+no+ar+%E2%80%94+e+muitos+por+vir" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=frontend+developer+%C2%B7+bahia%2C+brasil;iniciante+com+sede+de+s%C3%AAnior;um+projeto+no+ar+%E2%80%94+e+muitos+por+vir" alt="typing" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=lsaak7s&style=flat-square&color=333333&label=olhos+que+passaram+por+aqui" />
+<img src="https://komarev.com/ghpvc/?username=lsaak7s&style=flat-square&color=333333&label=visitors" />
 
 </div>
-
----
-
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   um dev nasce.   não de um bootcamp.   não de um       │
-│   diploma.   nasce quando alguém abre um arquivo        │
-│   em branco   e decide   que vai fazer algo aparecer.   │
-│                                                         │
-│                        esse sou eu.                     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
 
 ---
 
@@ -43,9 +21,6 @@
 <div align="center">
 
 ```javascript
-// isso não é um currículo.
-// é uma declaração de intenções.
-
 const lsaak7s = {
   origem:      "Bahia, Brasil 🇧🇷",
   foco:        "Frontend",
@@ -54,12 +29,7 @@ const lsaak7s = {
   missao:      "transformar ideias em interfaces reais",
 }
 
-while (alive) {
-  code()
-  learn()
-  ship()
-  repeat()
-}
+while (alive) { code(); learn(); ship() }
 ```
 
 </div>
@@ -68,32 +38,24 @@ while (alive) {
 
 ---
 
-## ✦ o que eu já coloquei no mundo
+<br/>
+
+## ✦ projeto em destaque
 
 <br/>
 
 <div align="center">
 
-### ➜ &nbsp;[impunsionar.com.br](https://impunsionar.com.br)
+[![impunsionar](https://img.shields.io/badge/impunsionar.com.br-CSS%20Gerado%20com%20IA%20%E2%9A%A1-000000?style=for-the-badge&logo=lightning&logoColor=white)](https://impunsionar.com.br)
 
-</div>
+<br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   CSS GERADO COM IA  ⚡                                  ║
-║                                                          ║
-║   você descreve.   a IA escreve.   você leva.            ║
-║                                                          ║
-║   construído por alguém que ainda está aprendendo.       ║
-║   isso é o mais honesto que um projeto pode ser.         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+> *você descreve. a IA escreve. você leva.*  
+> construído do zero — o projeto mais honesto que um iniciante pode ter.
 
-<div align="center">
+<br/>
 
-`JavaScript` &nbsp;·&nbsp; `IA` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `do zero`
+<img src="https://skillicons.dev/icons?i=js,css&theme=dark" />
 
 </div>
 
@@ -101,54 +63,35 @@ while (alive) {
 
 ---
 
-## ✦ onde estou nessa jornada
+<br/>
+
+## ✦ jornada
 
 <br/>
 
-```
-dia 1                                                   dia ∞
-  │                                                        │
-  ▼                                                        │
-  ●━━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━○
-            │
-            └── aqui. agora. em movimento.
+<div align="center">
 
-  "não sei nada"
-       ↓
-  "sei um pouco"
-       ↓
-  "sei o suficiente pra fazer funcionar"  ← você está aqui
-       ↓
-  "sei o suficiente pra ensinar"
-       ↓
-       ...
-```
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
 
-<br/>
+<br/><br/>
 
-| o que domino | o que estou conquistando | o que está no horizonte |
+| | tecnologia | status |
 |:---:|:---:|:---:|
-| `HTML` | `JavaScript avançado` | `React` |
-| `CSS` | `Git na prática` | `Node.js` |
-| `lógica básica` | `APIs` | `o próximo nível` |
-
-<br/>
-
----
-
-## ✦ ferramentas nas mãos
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github&theme=dark" />
+| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="32"/> | HTML5 | ✅ base sólida |
+| <img src="https://skillicons.dev/icons?i=css&theme=dark" width="32"/> | CSS3 | ✅ estilizando |
+| <img src="https://skillicons.dev/icons?i=js&theme=dark" width="32"/> | JavaScript | 🔄 praticando |
+| <img src="https://skillicons.dev/icons?i=git&theme=dark" width="32"/> | Git | 🔄 versionando |
+| <img src="https://skillicons.dev/icons?i=github&theme=dark" width="32"/> | GitHub | 🔄 construindo portfólio |
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="32"/> | React | ⏳ próximo passo |
+| <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="32"/> | Node.js | ⏳ no horizonte |
 
 </div>
 
 <br/>
 
 ---
+
+<br/>
 
 ## ✦ números
 
@@ -158,14 +101,14 @@ dia 1                                                   dia ∞
 
 <img src="https://github-readme-stats.vercel.app/api?username=lsaak7s&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=00000000&icon_color=555555&text_color=999999&ring_color=333333" />
 
-</div>
-
-<br/>
+<br/><br/>
 
 ```
-cada commit acima foi uma dúvida vencida.
+cada commit foi uma dúvida vencida.
 cada push foi uma decisão de não desistir.
 ```
+
+</div>
 
 <br/>
 
@@ -176,14 +119,10 @@ cada push foi uma decisão de não desistir.
 <div align="center">
 
 ```
-┌───────────────────────────────────┐
-│                                   │
-│   todo sênior já foi iniciante.   │
-│   a diferença é que ele ficou.    │
-│                                   │
-│              — vou ficar.         │
-│                                   │
-└───────────────────────────────────┘
+todo sênior já foi iniciante.
+a diferença é que ele ficou.
+
+— vou ficar.
 ```
 
 <br/>
