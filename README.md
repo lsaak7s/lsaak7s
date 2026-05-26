@@ -46,7 +46,7 @@ while (alive) { code(); learn(); ship() }
 
 <div align="center">
 
-[![impunsionar](https://img.shields.io/badge/impunsionar.com.br-CSS%20Gerado%20com%20IA%20%E2%9A%A1-000000?style=for-the-badge&logo=lightning&logoColor=white)](https://impunsionar.com.br)
+
 
 <br/>
 
@@ -55,7 +55,7 @@ while (alive) { code(); learn(); ship() }
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,css&theme=dark" />
+
 
 </div>
 
@@ -99,7 +99,7 @@ while (alive) { code(); learn(); ship() }
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lsaak7s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&icon_color=7070ff&text_color=cccccc&title_color=7070ff&ring_color=7070ff" />
+
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsaak7s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&text_color=cccccc&title_color=7070ff&langs_count=6" />
 
@@ -109,12 +109,14 @@ while (alive) { code(); learn(); ship() }
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lsaak7s&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=7070ff&line=7070ff&point=ffffff&area=true" />
+
 
 </div>
 
 <br/>
 
+<div align="center">
+  
 ```
 cada commit foi uma dúvida vencida.
 cada push foi uma decisão de não desistir.
