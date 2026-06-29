@@ -1,144 +1,56 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d0d1a,100:000000&height=200&section=header&text=lsaak7s&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=60&stroke=222222&strokeWidth=1" />
-</div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:161b22,100:0d1117&text=Isaac%20Alves&fontColor=58A6FF&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20"/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+projects+every+week;Learning+JavaScript;Turning+ideas+into+real+interfaces" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=frontend+developer+%C2%B7+bahia%2C+brasil;iniciante+com+sede+de+s%C3%AAnior;um+projeto+no+ar+%E2%80%94+e+muitos+por+vir" alt="typing" />
+<br>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=lsaak7s&style=flat-square&color=333333&label=visitors" />
+<a href="https://github.com/lsaak7s">
+<img src="https://komarev.com/ghpvc/?username=lsaak7s&style=for-the-badge&color=58A6FF"/>
+</a>
 
 </div>
 
----
+# 👋 Olá!
 
-<br/>
+Meu nome é **Isaac Alves**.
+
+Sou Desenvolvedor Front-End apaixonado por transformar ideias em interfaces modernas.
+
+Hoje estudo diariamente:
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e evoluir continuamente através da construção de projetos reais.
+
+Não quero apenas aprender programação.
+
+Quero construir produtos que resolvam problemas reais.
+
+Enquanto a oportunidade não chega,
+continuo criando.
+
+Um commit por vez.
 
 <div align="center">
 
-```javascript
-const lsaak7s = {
-  origem:      "Bahia, Brasil 🇧🇷",
-  foco:        "Frontend",
-  nivel:       "iniciante — e orgulhoso disso",
-  combustivel: "curiosidade + consistência",
-  missao:      "transformar ideias em interfaces reais",
-}
-
-while (alive) { code(); learn(); ship() }
-```
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,react,nodejs&perline=5" />
 
 </div>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lsaak7s&theme=github_dark"/>
+Não quero apenas aprender programação.
 
----
+Quero construir produtos que resolvam problemas reais.
 
-<br/>
+Enquanto a oportunidade não chega,
+continuo criando.
 
-## ✦ projeto em destaque
+Um commit por vez.
 
-<br/>
-
-<div align="center">
-
-
-
-<br/>
-
-> *você descreve. a IA escreve. você leva.*  
-> construído do zero — o projeto mais honesto que um iniciante pode ter.
-
-<br/>
-
-
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## ✦ jornada
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
-
-<br/><br/>
-
-| | tecnologia | status |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="32"/> | HTML5 | ✅ base sólida |
-| <img src="https://skillicons.dev/icons?i=css&theme=dark" width="32"/> | CSS3 | ✅ estilizando |
-| <img src="https://skillicons.dev/icons?i=js&theme=dark" width="32"/> | JavaScript | 🔄 praticando |
-| <img src="https://skillicons.dev/icons?i=git&theme=dark" width="32"/> | Git | 🔄 versionando |
-| <img src="https://skillicons.dev/icons?i=github&theme=dark" width="32"/> | GitHub | 🔄 construindo portfólio |
-| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="32"/> | React | ⏳ próximo passo |
-| <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="32"/> | Node.js | ⏳ no horizonte |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## ✦ estatísticas
-
-<br/>
-
-<div align="center">
-
-
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsaak7s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&text_color=cccccc&title_color=7070ff&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=lsaak7s&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7070ff&fire=ff6e6e&currStreakLabel=7070ff&sideLabels=888888&dates=555555&sideNums=cccccc&currStreakNum=ffffff" />
-
-<br/><br/>
-
-
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-```
-cada commit foi uma dúvida vencida.
-cada push foi uma decisão de não desistir.
-```
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-```
-todo sênior já foi iniciante.
-a diferença é que ele ficou.
-
-— vou ficar.
-```
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d0d1a&height=120&section=footer&text=em+construção.+sempre.&fontSize=16&fontColor=333333&fontAlignY=65" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer"/>
