@@ -6,10 +6,6 @@
 
 <br>
 
-<a href="https://github.com/lsaak7s">
-<img src="https://komarev.com/ghpvc/?username=lsaak7s&style=for-the-badge&color=58A6FF"/>
-</a>
-
 </div>
 
 # 👋 Olá!
