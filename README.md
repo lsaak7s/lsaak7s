@@ -50,5 +50,3 @@ continuo criando.
 Um commit por vez.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lsaak7s&theme=github_dark"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer"/>
