@@ -1,20 +1,12 @@
-<div align="center">
+# 👋 Olá, eu sou Isaac Alves
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:161b22,100:0d1117&text=Isaac%20Alves&fontColor=58A6FF&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20"/>
+Sou um desenvolvedor Front-End em formação, apaixonado por tecnologia e programação. Atualmente estudo **HTML, CSS e JavaScript**, criando projetos para aprimorar minha lógica de programação e desenvolver interfaces modernas.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+projects+every+week;Learning+JavaScript;Turning+ideas+into+real+interfaces" />
+Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e continuar evoluindo na área de tecnologia.
 
-<br>
+---
 
-</div>
-
-# 👋 Olá!
-
-Meu nome é **Isaac Alves**.
-
-Sou Desenvolvedor Front-End apaixonado por transformar ideias em interfaces modernas.
-
-Hoje estudo diariamente:
+## 🚀 Tecnologias
 
 - HTML5
 - CSS3
@@ -22,30 +14,59 @@ Hoje estudo diariamente:
 - Git
 - GitHub
 
-Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e evoluir continuamente através da construção de projetos reais.
+---
 
-Não quero apenas aprender programação.
+## 📂 Portfólio
 
-Quero construir produtos que resolvam problemas reais.
+### ✊ JokenPô
+Jogo clássico de Pedra, Papel e Tesoura contra o computador.
 
-Enquanto a oportunidade não chega,
-continuo criando.
+**Tecnologias:** HTML, CSS e JavaScript
 
-Um commit por vez.
+---
 
+### 🛒 Sistema de Caixa
+Sistema que simula um caixa de supermercado, aplicando descontos automaticamente e calculando o valor total da compra.
 
-<div align="center">
+**Tecnologias:** JavaScript
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,react,nodejs&perline=5" />
+---
 
-</div>
+### 💱 Conversor de Moedas
+Aplicação para converter valores entre diferentes moedas de forma rápida e intuitiva.
 
-Não quero apenas aprender programação.
+**Tecnologias:** HTML, CSS e JavaScript
 
-Quero construir produtos que resolvam problemas reais.
+---
 
-Enquanto a oportunidade não chega,
-continuo criando.
+### 🎨 Gerador de CSS com IA
+Ferramenta que transforma descrições em português em código CSS automaticamente.
 
-Um commit por vez.
+**Tecnologias:** HTML, CSS e JavaScript
 
+---
+
+## 📈 Atualmente estudando
+
+- JavaScript
+- Lógica de Programação
+- Manipulação do DOM
+- Consumo de APIs
+- Git e GitHub
+
+---
+
+## 🎯 Objetivo
+
+Construir aplicações cada vez mais completas, aprender novas tecnologias e ingressar profissionalmente na área de desenvolvimento de software.
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/lsaak7s
+- LinkedIn: *(adicione o link do seu perfil aqui)*
+
+---
+
+⭐ Obrigado por visitar meu portfólio! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
