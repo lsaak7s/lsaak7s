@@ -1,72 +1,85 @@
+<div align="center">
+
 # 👋 Olá, eu sou Isaac Alves
 
-Sou um desenvolvedor Front-End em formação, apaixonado por tecnologia e programação. Atualmente estudo **HTML, CSS e JavaScript**, criando projetos para aprimorar minha lógica de programação e desenvolver interfaces modernas.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+novas+tecnologias!" />
 
-Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e continuar evoluindo na área de tecnologia.
-
----
-
-## 🚀 Tecnologias
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+</div>
 
 ---
 
-## 📂 Portfólio
+## 🚀 Sobre mim
 
-### ✊ JokenPô
-Jogo clássico de Pedra, Papel e Tesoura contra o computador.
+💻 Desenvolvedor Front-End em formação.
 
-**Tecnologias:** HTML, CSS e JavaScript
+🎯 Apaixonado por transformar ideias em interfaces modernas e funcionais.
 
----
-
-### 🛒 Sistema de Caixa
-Sistema que simula um caixa de supermercado, aplicando descontos automaticamente e calculando o valor total da compra.
-
-**Tecnologias:** JavaScript
+📚 Atualmente estudando JavaScript, lógica de programação e desenvolvimento web.
 
 ---
 
-### 💱 Conversor de Moedas
-Aplicação para converter valores entre diferentes moedas de forma rápida e intuitiva.
+## 💻 Tecnologias
 
-**Tecnologias:** HTML, CSS e JavaScript
-
----
-
-### 🎨 Gerador de CSS com IA
-Ferramenta que transforma descrições em português em código CSS automaticamente.
-
-**Tecnologias:** HTML, CSS e JavaScript
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-## 📈 Atualmente estudando
+## 📂 Projetos
 
-- JavaScript
-- Lógica de Programação
-- Manipulação do DOM
-- Consumo de APIs
-- Git e GitHub
-
----
-
-## 🎯 Objetivo
-
-Construir aplicações cada vez mais completas, aprender novas tecnologias e ingressar profissionalmente na área de desenvolvimento de software.
+| Projeto | Descrição |
+|---------|-----------|
+| 💱 Conversor de Moedas | Conversão entre diferentes moedas. |
+| 🎨 Gerador de CSS | Gera código CSS automaticamente. |
+| ✊ JokenPô | Pedra, Papel e Tesoura contra o computador. |
+| 🛒 Sistema de Caixa | Calcula descontos automaticamente. |
+| 🎲 Sorteador | Sorteio de números aleatórios. |
+| ⏱️ Cronômetro | Cronômetro com iniciar, pausar e reiniciar. |
+| 🔍 Buscador de Contratos | Projeto em desenvolvimento. |
 
 ---
 
-## 📫 Contato
+## 📊 Estatísticas
 
-- GitHub: https://github.com/lsaak7s
-- LinkedIn: *(adicione o link do seu perfil aqui)*
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lsaak7s&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsaak7s&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu portfólio! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
+## 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🌎 Vamos nos conectar
+
+<p align="center">
+
+<a href="https://github.com/lsaak7s">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="SEU_LINK_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+</div>
