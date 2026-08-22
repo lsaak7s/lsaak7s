@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor Front-End em formação.
+💻 Desenvolvedor Full Stack em formação.
 
 🎯 Apaixonado por transformar ideias em interfaces modernas e funcionais.
 
