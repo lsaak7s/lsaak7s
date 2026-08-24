@@ -18,10 +18,26 @@
 
 ---
 
+## ⚙️ Ferramentas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,figma,github," />
+</p>
+
+---
+
 ## 💻 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,git,js,nodejs,mongodb," />
+</p>
+
+---
+
+## 📜 Framework s
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prisma,express" />
 </p>
 
 ---
@@ -37,6 +53,7 @@
 | 🎲 Sorteador | Sorteio de números aleatórios. |
 | ⏱️ Cronômetro | Cronômetro com iniciar, pausar e reiniciar. |
 | 🔍 Buscador de Contratos | Projeto em desenvolvimento. |
+| 🍔 Apresentação | Projeto De Hambúrguerias. |
 
 ---
 
