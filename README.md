@@ -10,11 +10,11 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor Full Stack em formação.
+💻 Desenvolvedor Full Stack em Desenvolvimento.
 
 🎯 Apaixonado por transformar ideias em interfaces modernas e funcionais.
 
-📚 Atualmente estudando JavaScript, lógica de programação e desenvolvimento web.
+📚 Estudando JavaScript e Node.js, desenvolvendo minhas habilidades em lógica de programação, APIs e desenvolvimento Full Stack.
 
 ---
 
