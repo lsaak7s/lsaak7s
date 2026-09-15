@@ -37,7 +37,9 @@
 ## 📜 Framework s
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=prisma,express,axios,stylis" />
+<img src="https://skillicons.dev/icons?i=prisma,express,styledcomponents"
+  </p><p align="center">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
 ---
