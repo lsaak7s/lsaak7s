@@ -21,7 +21,7 @@
 ## ⚙️ Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,figma,github," />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,npm,yarn," />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 📜 Framework s
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=npm,yarn,prisma,express,axios" />
+<img src="https://skillicons.dev/icons?i=prisma,express,axios" />
 </p>
 
 ---
