@@ -37,7 +37,7 @@
 ## 📜 Framework s
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=prisma,express" />
+<img src="https://skillicons.dev/icons?i=npm,yarn,prisma,express,axios" />
 </p>
 
 ---
