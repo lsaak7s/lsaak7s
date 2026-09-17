@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Isaac Alves
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;HTML+%7C+CSS+%7C+JavaScript+%7C+Nodejs;Sempre+aprendendo+novas+tecnologias!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;HTML+%7C+CSS+%7C+JavaScript+%7C+Nodejs+%7C+React;Sempre+aprendendo+novas+tecnologias!" />
 
 </div>
 
@@ -41,6 +41,7 @@
   </p><p align="center">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/PropTypes-282C34?style=for-the-badge" alt="PropTypes" />
 
 </p>
 
