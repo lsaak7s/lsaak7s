@@ -21,7 +21,7 @@
 ## ⚙️ Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,npm,yarn,prisma" />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,npm,pnpm,yarn,prisma" />
 </p>
 
 ---
