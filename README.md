@@ -21,7 +21,7 @@
 ## ⚙️ Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,docker" />
 <img src="https://cdn.simpleicons.org/biome/60A5FA" width="48" height="48" alt="Biome" />
 <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,prisma" />
   
