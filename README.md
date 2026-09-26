@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Isaac Alves
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;HTML+%7C+CSS+%7C+JavaScript+%7C+Nodejs+%7C+React;Sempre+aprendendo+novas+tecnologias!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;HTML+%7C+CSS+%7C+JavaScript+%7C+Nodejs+%7C+React+%7C+docker+%7C+postgres;Sempre+aprendendo+novas+tecnologias!" />
 
 </div>
 
@@ -21,9 +21,10 @@
 ## ⚙️ Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,docker" />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+<img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,prisma,docker" />
 <img src="https://cdn.simpleicons.org/biome/60A5FA" width="48" height="48" alt="Biome" />
-<img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,prisma" />
+
   
 </p>
 
