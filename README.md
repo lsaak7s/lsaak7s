@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Isaac Alves
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;HTML+%7C+CSS+%7C+JavaScript+%7C+Nodejs+%7C+React+%7C+docker+%7C+postgres;Sempre+aprendendo+novas+tecnologias!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full-Stack;JavaScript+%7C+Nodejs+%7C+React+%7C+Biome+%7C+docker+%7C+postgres;Sempre+aprendendo+novas+tecnologias!" />
 
 </div>
 
