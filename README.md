@@ -32,7 +32,7 @@
 ## 💻 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,git,js,nodejs,mongodb," />
+<img src="https://skillicons.dev/icons?i=html,css,git,js,nodejs,mongodb,postgres" />
 </p>
 
 ---
