@@ -21,11 +21,13 @@
 ## ⚙️ Ferramentas
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
 <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,prisma,docker" />
 <img src="https://cdn.simpleicons.org/biome/60A5FA" width="48" height="48" alt="Biome" />
-
-  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
 </p>
 
 ---
