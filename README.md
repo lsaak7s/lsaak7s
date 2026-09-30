@@ -43,11 +43,12 @@
 ## 📜Framework’s
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,express,styledcomponents,sequelize"
+<img src="https://skillicons.dev/icons?i=react,express,styledcomponents,sequelize,Yup"
   </p><p align="center">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/PropTypes-282C34?style=for-the-badge" alt="PropTypes" />
+  <img src="https://img.shields.io/badge/Yup-Validation-764ABC?style=for-the-badge" alt="Yup">
 
 </p>
 
