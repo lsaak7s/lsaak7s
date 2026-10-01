@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/PropTypes-282C34?style=for-the-badge" alt="PropTypes" />
   <img src="https://img.shields.io/badge/Yup-Validation-764ABC?style=for-the-badge" alt="Yup">
+  <img src="https://img.shields.io/badge/bcrypt-3B5998?style=for-the-badge" alt="bcrypt">
 
 </p>
 
