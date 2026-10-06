@@ -50,6 +50,8 @@
   <img src="https://img.shields.io/badge/PropTypes-282C34?style=for-the-badge" alt="PropTypes" />
   <img src="https://img.shields.io/badge/Yup-Validation-764ABC?style=for-the-badge" alt="Yup">
   <img src="https://img.shields.io/badge/bcrypt-3B5998?style=for-the-badge" alt="bcrypt">
+  <img src="https://img.shields.io/badge/Multer-File%20upload-7C3AED?style=for-the-badge" alt="Multer — middleware de upload"
+>
 
 </p>
 
