@@ -50,12 +50,9 @@
   <img src="https://img.shields.io/badge/PropTypes-282C34?style=for-the-badge" alt="PropTypes" />
   <img src="https://img.shields.io/badge/Yup-Validation-764ABC?style=for-the-badge" alt="Yup">
   <img src="https://img.shields.io/badge/bcrypt-3B5998?style=for-the-badge" alt="bcrypt">
-  <img src="https://img.shields.io/badge/Multer-File%20upload-7C3AED?style=for-the-badge" alt="Multer — middleware de upload"
->
-<img
-  src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
-  alt="JWT — autenticação por token"
->
+  <img src="https://img.shields.io/badge/Multer-File%20upload-7C3AED?style=for-the-badge" alt="Multer — middleware de upload">
+<img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT — autenticação por token">
+
 
 </p>
 
