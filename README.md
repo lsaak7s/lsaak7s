@@ -93,12 +93,6 @@
 
 <p align="center">
 
-<p align="center">
-  <a href="https://github.com/lsaak7s">
-    <img width="48" height="48" alt="github-light" src="https://github.com/user-attachments/assets/32366870-af00-4793-91e3-031199ab8fe0" />
-
-  </a>
-
   <a href="https://www.linkedin.com/in/lsaakalves/">
     <img width="48" height="48" alt="linkedin" src="https://github.com/user-attachments/assets/0612775c-cbb4-41ab-892a-9de6f235ea62" />
 
