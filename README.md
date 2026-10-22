@@ -25,10 +25,10 @@
 <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
 <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,prisma,docker" />
 <img src="https://cdn.simpleicons.org/biome/60A5FA" width="48" height="48" alt="Biome" />
+<img width="48" height="48" alt="insomnia" src="https://github.com/user-attachments/assets/dec9d3b1-5860-4499-97a2-1a54f7f7a5af" />
+
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
-</p>
+
 
 ---
 
@@ -36,6 +36,8 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,git,js,nodejs,mongodb,postgres" />
+  <img width="48" height="48" alt="mongoose" src="https://github.com/user-attachments/assets/17603a4e-75db-47b2-9ee0-680500ddfae9" />
+
 </p>
 
 ---
@@ -43,15 +45,18 @@
 ## 📜Framework’s
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,express,styledcomponents,sequelize"
+  <img src="https://skillicons.dev/icons?i=react,express,sequelize" />
+  <img width="48" height="48" alt="styledcomponents" src="https://github.com/user-attachments/assets/511a30b8-0e88-4543-b1bc-3e1cb6a90677" />
+  <img width="48" height="48" alt="axios" src="https://github.com/user-attachments/assets/96e70399-a367-4019-bca3-aa1cb027c9eb" />
+  <img width="48" height="48" alt="reactrouter-dark" src="https://github.com/user-attachments/assets/2fb92f75-9e52-45af-a3a8-624193b56e67" />
+  <img width="48" height="48" alt="jwt-io" src="https://github.com/user-attachments/assets/43d40afb-ce22-4efc-aefc-ce7ccba36443" /> 
   </p><p align="center">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/PropTypes-282C34?style=for-the-badge" alt="PropTypes" />
   <img src="https://img.shields.io/badge/Yup-Validation-764ABC?style=for-the-badge" alt="Yup">
   <img src="https://img.shields.io/badge/bcrypt-3B5998?style=for-the-badge" alt="bcrypt">
   <img src="https://img.shields.io/badge/Multer-File%20upload-7C3AED?style=for-the-badge" alt="Multer — middleware de upload">
-<img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT — autenticação por token">
+ 
+
 
 
 </p>
@@ -90,11 +95,13 @@
 
 <p align="center">
   <a href="https://github.com/lsaak7s">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img width="48" height="48" alt="github-light" src="https://github.com/user-attachments/assets/32366870-af00-4793-91e3-031199ab8fe0" />
+
   </a>
 
   <a href="https://www.linkedin.com/in/lsaakalves/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img width="48" height="48" alt="linkedin" src="https://github.com/user-attachments/assets/0612775c-cbb4-41ab-892a-9de6f235ea62" />
+
   </a>
 </p>
 
