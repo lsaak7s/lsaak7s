@@ -25,6 +25,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
 <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,prisma,docker" />
 <img src="https://cdn.simpleicons.org/biome/60A5FA" width="48" height="48" alt="Biome" />
+<img width="48" height="48" alt="eslint" src="https://github.com/user-attachments/assets/f9555537-99e2-449d-a4ed-2415742e4ad8" />
 <img width="48" height="48" alt="insomnia" src="https://github.com/user-attachments/assets/dec9d3b1-5860-4499-97a2-1a54f7f7a5af" />
 
 </p>
